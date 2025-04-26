@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2Record
+comment1.params=newCountry\ newCo2\ newGdp\ newPopulation\ newCoal_co2
+comment1.target=CO2Record(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ of\ the\ class\ CO2Record,\ which\ assigns\ all\ values\ to\ the\ fields\ given\ in\ the\ parameters\r\n
+numComments=2

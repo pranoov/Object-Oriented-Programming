@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Countries
+comment1.params=
+comment1.target=Countries()
+comment1.text=\r\n\ Constructor\ that\ initializes\ the\ data\ ArrayList\ and\ populates\ it\ with\ data\ from\ a\ file.\r\n
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ Reads\ data\ from\ the\ data.txt\ file\ and\ populates\ the\ data\ ArrayList.\r\n\ Each\ country's\ data\ includes\ CO2\ emissions,\ population,\ GDP,\ and\ coal\ CO2\ emissions\r\n\ over\ multiple\ years.\r\n
+numComments=3

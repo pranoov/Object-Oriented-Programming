@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LiveData
+comment0.text=\r\n\ The\ LiveData\ class\ represents\ live\ data\ related\ to\ carbon\ intensity\ and\ zone\ information.\r\n\ It\ provides\ methods\ to\ set\ and\ get\ the\ carbon\ intensity,\ zone,\ and\ updated\ time.\r\n\ \r\n\ This\ class\ is\ used\ to\ store\ and\ manage\ live\ data\ fetched\ from\ an\ external\ source.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LiveData()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LiveData.\r\n\ Initializes\ the\ zone,\ carbonIntensity,\ and\ updatedAt\ fields\ to\ default\ values.\r\n
+comment2.params=newCarbon
+comment2.target=void\ setCarbonIntensity(int)
+comment2.text=\r\n\ Sets\ the\ carbon\ intensity\ value.\r\n\ \r\n\ @param\ newCarbon\:\ The\ new\ carbon\ intensity\ value\ to\ set.\r\n
+comment3.params=newZone
+comment3.target=void\ setZone(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ zone\ value.\r\n\ \r\n\ @param\ newZone\:\ The\ new\ zone\ value\ to\ set.\r\n
+comment4.params=newUpdated
+comment4.target=void\ setUpdated(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ updated\ time\ value.\r\n\ \r\n\ @param\ newUpdated\:\ The\ new\ updated\ time\ value\ to\ set.\r\n
+comment5.params=
+comment5.target=int\ getCarbonIntensity()
+comment5.text=\r\n\ Gets\ the\ carbon\ intensity\ value.\r\n\ \r\n\ @return\ The\ current\ carbon\ intensity\ value.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getZone()
+comment6.text=\r\n\ Gets\ the\ zone\ value.\r\n\ \r\n\ @return\ The\ current\ zone\ value.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getUpdated()
+comment7.text=\r\n\ Gets\ the\ updated\ time\ value.\r\n\ \r\n\ @return\ The\ current\ updated\ time\ value.\r\n
+numComments=8

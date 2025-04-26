@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Roster
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Roster()
+comment2.text=\r\n\ The\ constructor\ builds\ the\ new\ ArrayList\ containing\ the\ students,\ from\ the\ text\ file.\ The\ it\ gives\r\n\ the\ user\ the\ option\ to\ enact\ various\ methods\ like\ print,\ find,\ remove\ and\ analyze\ on\ the\ collection.\r\n\ Once\ the\ user\ is\ done\ they\ can\ quit,\ and\ then\ a\ thank\ you\ message\ appears.\r\n
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\r\n\ This\ reads\ every\ line\ from\ the\ text\ file,\ and\ splits\ it\ to\ an\ array,\ by\ name,\ grade\ and\ hall.\ \r\n\ Then\ a\ student\ object\ is\ made\ with\ this\ information\ and\ added\ to\ the\ collection.\ \r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ Asks\ for\ the\ user\ to\ enter\ a\ grade\ between\ 10\ and\ 12,\ and\ will\ keep\ asking\ until\ they\r\n\ enter\ a\ valid\ response.\ Then\ it\ uses\ that\ number\ to\ print\ the\ details\ of\ all\ students\ in\ that\ \r\n\ grade.\ \r\n
+comment5.params=
+comment5.target=void\ find()
+comment5.text=\r\n\ It\ asks\ the\ user\ to\ enter\ the\ name\ of\ the\ student\ and\ will\ keep\ prompting\ until\ a\ valid\ response\ is\r\n\ inputed.\ Then\ it\ checks\ through\ the\ student\ array\ to\ see\ if\ the\ name\ matches,\ and\ prints\ \r\n\ out\ the\ students\ details.\ Else\ a\ message\ that\ the\ student\ wasn't\ found\ is\ printed.\r\n
+comment6.params=
+comment6.target=void\ remove()
+comment6.text=\r\n\ Similar\ to\ the\ find\ method,\ it\ searches\ through\ the\ whole\ collection\ to\ find\ the\ student\r\n\ matching\ to\ what\ the\ user\ entered.\ Instead\ of\ a\ for\ loop,\ it\ uses\ an\ iterator,\ and\ then\ \r\n\ removes\ the\ matching\ student\ when\ found\ from\ collection.\r\n
+comment7.params=
+comment7.target=void\ analyze()
+comment7.text=\r\n\ Creates\ a\ blank\ array,\ and\ then\ goes\ through\ the\ whole\ students\ collection,\r\n\ and\ keeps\ increasing\ the\ values\ in\ the\ array\ corresponding\ to\ the\ hall\ of\ the\ students\r\n\ which\ is\ then\ printed\ out\ in\ the\ end.\ \r\n
+numComments=8

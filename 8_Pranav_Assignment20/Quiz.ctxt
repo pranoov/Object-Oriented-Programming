@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Quiz
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Creates\ a\ new\ Quiz\ object\ to\ call\ the\ constructor\r\n
+comment2.params=
+comment2.target=Quiz()
+comment2.text=\r\n\ Initializes\ all\ of\ the\ ArrayLists\ and\ Arrays\ needed\ for\ the\ quiz.\r\n\ Also\ sets\ up\ the\ scanner\ to\ read\ the\ file\ with\ questions\ and\ answer\ choices,\r\n\ and\ calls\ the\ respective\ methods.\ \r\n
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\r\n\ Reads\ the\ questions\ and\ answer\ choices\ from\ the\ file,\ and\ then\ adds\ them\ to\ their\r\n\ respective\ ArrayLists.\r\n
+comment4.params=
+comment4.target=void\ createQuiz()
+comment4.text=\r\n\ Prints\ out\ all\ of\ the\ quiz\ questions\ and\ answer\ choices,\ and\ waits\ for\ the\ users\r\n\ response.\ Loops\ through\ all\ the\ questions,\ and\ formats\ them\ nicely.\r\n
+comment5.params=
+comment5.target=void\ score()
+comment5.text=\r\n\ Called\ at\ the\ end\ of\ the\ game,\ and\ using\ the\ ArrayList\ with\ the\ users\ answers,\ it\ checks\r\n\ to\ see\ how\ many\ questions\ they\ got\ right.\ Then\ it\ is\ printed\ along\ with\ an\ appropriate\r\n\ message.\r\n
+numComments=6

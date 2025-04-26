@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Numbers
+comment1.params=
+comment1.target=Numbers()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Numbers\r\n
+comment2.params=
+comment2.target=int\ genNumbers()
+comment3.params=
+comment3.target=void\ genRange()
+comment4.params=min\ max
+comment4.target=void\ getRangeModified(int,\ int)
+numComments=5

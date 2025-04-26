@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyScanner
+comment1.params=
+comment1.target=MyScanner()
+comment2.params=
+comment2.target=void\ getSumAndAvg()
+comment3.params=
+comment3.target=void\ printStartEndChar()
+comment4.params=
+comment4.target=void\ firstToUpper()
+comment5.params=
+comment5.target=void\ compareStrings()
+comment6.params=
+comment6.target=void\ firstUpperSecondLower()
+comment7.params=
+comment7.target=void\ backwardsName()
+numComments=8

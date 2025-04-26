@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Digits
+comment1.params=
+comment1.target=Digits()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Digits\r\n
+comment2.params=
+comment2.target=void\ printDigits()
+numComments=3

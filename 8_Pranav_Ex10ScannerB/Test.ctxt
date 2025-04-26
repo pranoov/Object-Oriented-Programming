@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment2.params=string
+comment2.target=void\ intToDigit(java.lang.String)
+numComments=3

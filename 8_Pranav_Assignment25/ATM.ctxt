@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ creates\ a\ new\ instance\ of\ ATM\ class\r\n
+comment2.params=
+comment2.target=ATM()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ ATM\r\n
+comment3.params=
+comment3.target=void\ printAll()
+comment3.text=\r\n\ Uses\ printTransactionHistory\ method\ to\ print\ all\ accounts\ and\ transactions\r\n
+comment4.params=account
+comment4.target=void\ printTransactionHistory(int)
+comment4.text=\r\n\ Using\ an\ account\ number\ returns\ the\ transaction\ history\ and\ balance\ for\ that\ account\r\n
+comment5.params=account\ amount
+comment5.target=void\ deposit(int,\ double)
+comment5.text=\r\n\ Deposits\ money\ to\ account,\ and\ adds\ to\ transaction\ history\ for\ account\r\n
+comment6.params=account\ amount
+comment6.target=void\ withdraw(int,\ double)
+comment6.text=\r\n\ Withdraws\ money\ from\ an\ account,\ and\ adds\ it\ to\ transaction\ history\r\n
+comment7.params=
+comment7.target=void\ populate()
+comment7.text=\r\n\ Uses\ the\ file,\ to\ populate\ the\ accounts\ and\ their\ transactions\ history\ and\ balance\ to\ a\ HashMap\r\n
+numComments=8

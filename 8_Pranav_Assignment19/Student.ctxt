@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Contains\ all\ the\ states\ for\ the\ Student\ object,\ and\ getter\ methods\ to\ be\ used\r\n\ by\ the\ Roster\ class.\r\n\r\n\ @author\ Pranav\ Gadde\r\n
+comment1.params=newName\ newGrade\ newHall
+comment1.target=Student(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Inilitiazes\ the\ instance\ variables\ name,\ grade,\ and\ hall.\r\n\ \r\n\ @param\ name\:\ name\ of\ the\ student\r\n\ @param\ grade\:\ the\ grade\ level\ of\ student\r\n\ @param\ hall\:\ which\ hall\ the\ student\ lives\ in\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Getter\ method\ for\ variable\ name\r\n\ @return\ name\:\ returns\ the\ String\ of\ variable\ name\r\n
+comment3.params=
+comment3.target=int\ getGrade()
+comment3.text=\r\n\ Getter\ method\ for\ grade\r\n\ @return\ grade\:\ returns\ the\ int\ of\ variable\ grade\r\n
+comment4.params=
+comment4.target=int\ getHall()
+comment4.text=\r\n\ Getter\ method\ for\ hall\r\n\ @return\ hall\:\ returns\ the\ int\ of\ variable\ hall\r\n
+numComments=5

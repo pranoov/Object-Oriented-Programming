@@ -1,0 +1,20 @@
+Which of the following is the default value of a local variable?
+null
+" "
+local variables don't have a default value
+depends on the data type
+Which index is the last element in a list called nums?
+nums.length
+nums.length - 1
+nums.size()
+nums.size()-1
+Which of the following is a reason to use an ArrayList instead of an array?
+An ArrayList can grow or shrink as needed, while an array is always the same size
+You can use a for-each loop on an ArrayList, but not on an array
+You can store objects in an ArayList, but not in any array
+All of the above
+Which of the following is a reason to use an array instead of an ArrayList?
+An array has faster access to its elements than a list does.
+An array knows it length, but a list doesn't know its length.
+An ArrayList can allocate more space than it needs.
+None of the above

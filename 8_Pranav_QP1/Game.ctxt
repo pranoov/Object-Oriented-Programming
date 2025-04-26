@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Sets\ up\ a\ new\ canvas\ and\ asks\ the\ user\ if\ they\ want\ to\ play\ the\ game.\ If\ they\ do\ it\ calls\ on\ the\ actual\ \r\n\ game\ method\ to\ show\ the\ game.\ It\ also\ draws\ a\ welcome\ screen\ in\ java\ canvas\ to\ the\ user.\ \r\n
+comment2.params=
+comment2.target=void\ game()
+comment2.text=\r\n\ The\ main\ method\ of\ the\ actual\ game.\ It\ starts\ with\ prompting\ the\ user\ to\ enter\ what\ terrain\ they\r\n\ want\ to\ race\ on.\ After\ it\ will\ start\ a\ while\ loop\ which\ will\ keep\ playing\ games\ until\ the\ user\ decides\r\n\ to\ stop.\ Inside\ the\ while\ loop\ it\ starts\ a\ race\ between\ the\ user\ bike\ and\ computer\ bike.\ It\ increments\ \r\n\ both\ randomely,\ and\ often\ prompts\ the\ user\ with\ a\ question\ which\ can\ help\ or\ hurt\ them.\ After\ both\ have\ reached\r\n\ their\ goal,\ it\ will\ tell\ the\ user\ the\ results\ and\ ask\ if\ they\ want\ to\ play\ again\ or\ end\ the\ game.\ \r\n
+comment3.params=
+comment3.target=void\ getQuestions()
+comment3.text=\ \r\n\ gets\ random\ questions\ for\ the\ user\ randomly\ from\ the\ array.\ If\ they\ accept\ the\ scenario\ it\ will\ \r\n\ randomly\ decide\ if\ it\ helps\ or\ hurts\ the\ users\ distance\ and\ tells\ them\ an\ appropriate\ response\ back.\r\n\ This\ advantage\ is\ also\ given\ to\ the\ computer\ bike,\ where\ it\ randomly\ can\ be\ boosted\ up\ or\ down\ to\ simulate\r\n\ what\ is\ given\ to\ the\ user.\ \r\n
+comment4.params=
+comment4.target=void\ reset()
+comment4.text=\r\n\ Resets\ all\ the\ counters\ so\ the\ user\ can\ play\ another\ game\r\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ Moves\ all\ of\ the\ fields\ like\ the\ bikeX\ and\ the\ compX\ a\ random\ distance\ in\ order\ to\ simulate\ the\ race.\r\n\ It\ also\ calculates\ the\ progress\ the\ computer\ bike\ has\ made\ based\ on\ distance.\ \r\n
+comment6.params=
+comment6.target=int\ getRandom()
+comment6.text=\r\n\ Method\ used\ to\ get\ a\ random\ number\ for\ incrementing\ the\ bikes\ everytime\r\n
+numComments=7

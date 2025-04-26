@@ -1,0 +1,26 @@
+Name Quiz1 Quiz2 Quiz3 Quiz4
+James Butt 42.5 79.5 99.5 76
+Josephine Darakjy 89.5 48.5 81.5 65
+Art Venere 64.5 61.5 81.5 46.5
+Lenna Paprocki 84 42 89.5 37.5
+Donette Foller 71.5 87.5 84.5 87.5
+Simona Morasca 74.5 72.5 98 83.5
+Mitsue Tollner 76.5 83.5 93.5 41.5
+Leota Dilliard 66 92.5 97.5 64.5
+Sage Wieser 79.5 77.5 89.5 48.5
+Kris Marrier 69.5 43.5 90.5 91.5
+Minna Amigon 65.0 73.5 99.5 78.5
+Abel Maclead 66.5 99.5 83.5 60
+Kiley Caldarera 65.5 53 98.5 74.5
+Graciela Ruta 82.5 91.5 96.5 55.5
+Cammy Albares 84.5 55.5 86.5 45.5
+Mattie Poquette 78.5 94.5 84.5 54.5
+Meaghan Garufi 62.5 70.5 97 71.5
+Gladys Rim 76.5 57.5 84.5 66
+Yuki Whobrey 72.5 76.5 88.5 42.5
+Fletcher Flosi 72.5 47.5 81.5 69.5
+Bette Nicka 63.5 71.5 88.5 49.5
+Veronika Inouye 61 64.5 100.5 49.5
+Willard Kolmetz 66.5 47.5 81.5 56
+Maryann Royster 70.5 53 94 51.5
+Alisha Slusarski 66.5 64.5 81.5 86.5

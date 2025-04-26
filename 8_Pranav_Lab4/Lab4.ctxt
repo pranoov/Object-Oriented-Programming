@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lab4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\r\n\ Creates\ a\ scanner\ class\ which\ reads\ the\ input\ file,\ and\ then\ passed\ it\ to\ the\ constructor\ \r\n\ to\ populate\ the\ HashMap\r\n
+comment2.params=scanner
+comment2.target=Lab4(java.util.Scanner)
+comment2.text=\r\n\ Constructor\r\n\ Takes\ in\ the\ data\ from\ the\ scanner\ of\ the\ text\ file\ data\ and\ populates\ the\ HashMap.\ Then\ it\ calls\r\n\ the\ appropriate\ methods\ in\ order\ to\ print\ out\ data\ of\ the\ students.\ \r\n\ \r\n\ @parameter\ scanner\:\ contains\ the\ data\ the\ Scanner\ class\ got\ from\ the\ file\ \r\n
+comment3.params=
+comment3.target=void\ printInfo()
+comment3.text=\r\n\ Prints\ all\ of\ the\ student\ data\ of\ the\ names\ and\ all\ their\ quiz\ scores\ nicely,\ along\ with\ headings\r\n\ at\ the\ top.\ \r\n
+comment4.params=
+comment4.target=void\ printAvg()
+comment4.text=\r\n\ Gets\ all\ the\ average\ scores\ of\ the\ students,\ and\ then\ prints\ them\ out\ nicely\ with\ their\ names.\ Students\r\n\ with\ an\ average\ below\ 70.0\ are\ pushed\ to\ an\ ArrayList\ to\ be\ used\ by\ a\ different\ method.\r\n
+comment5.params=
+comment5.target=void\ printFail()
+comment5.text=\r\n\ Prints\ out\ all\ of\ the\ students\ that\ are\ failing\ using\ the\ failStudents\ ArrayList.\ There\ students\ quiz\r\n\ average\ is\ found\ and\ printed\ out\ nicely\ with\ printf\ command,\ and\ at\ the\ end\ the\ total\ number\ students\r\n\ which\ are\ failing\ is\ printed.\r\n
+numComments=6
